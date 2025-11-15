@@ -21,6 +21,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </p>
 
+## Contato
+<p>
+  <a href="https://www.linkedin.com/in/henrique-campos-6b4b70217" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/hcampos03_/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="40" alt="Instagram"/>
+  </a>
+  <a href="mailto:henrique.d.campos@ufv.br">
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="Email"/>
+  </a>
+</p>
+
 ## 🚀 Projetos Em Desenvolvimento
 
 ### 📁 Detetives do Sapiens  
