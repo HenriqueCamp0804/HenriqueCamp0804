@@ -1,4 +1,4 @@
-### 👨‍💻 Sobre mim 
+## 👨‍💻 Sobre mim 
 
 🙋🏽‍♂️ Henrique Campos/ 22y / Minas Gerais - BR  
 
