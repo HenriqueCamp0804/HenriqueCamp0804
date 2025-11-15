@@ -1,8 +1,11 @@
 ### 👨‍💻 Sobre mim 
 
-🙋🏽‍♂️ Henrique Campos/ 22y / Minas Gerais - BR
-👨🏽‍🎓 Bacharelando em Ciência da Computação na Universidade Federal de Viçosa (UFV)
-🧠 Muito interessado em tecnologias no geral e sempre em busca de novos conhecimentos
+🙋🏽‍♂️ Henrique Campos/ 22y / Minas Gerais - BR  
+
+👨🏽‍🎓 Bacharelando em Ciência da Computação na Universidade Federal de Viçosa (UFV)  
+
+🧠 Muito interessado em tecnologias no geral e sempre em busca de novos conhecimentos  
+
 🔍 Iniciação Científica em Mineração e Análise de Dados
 
 ### 💻 Linguagens e Tecnologias
@@ -16,5 +19,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devioins/devicon/icons/springboot/springboot-original.svg" height="40" alt="Springboot"/>
 </p>
