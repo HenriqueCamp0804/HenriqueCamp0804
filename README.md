@@ -8,7 +8,7 @@
 
 🔍 Iniciação Científica em Mineração e Análise de Dados
 
-### 💻 Linguagens e Tecnologias
+## 💻 Linguagens e Tecnologias
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
@@ -20,3 +20,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/>
 </p>
+
+## 🚀 Projetos Em Desenvolvimento
+
+### 📁 Detetives do Sapiens  
+
+Atualmente participo do desenvolvimento de um jogo educacional como parte das disciplinas de Engenharia de Software 2 e Arquitetura de Software. O objetivo do projeto é ensinar conceitos básicos de computação a crianças do 1º ano do Ensino Fundamental de uma escola pública de Florestal, utilizando elementos lúdicos e diferentes formas de representação da informação (texto, áudio e imagem).  
+
+🔧 Minhas Atividades no Projeto  
+   ✔ Desenvolvedor Sênior Backend    
+       - Implementação do backend utilizando Java + Spring Boot    
+       - Uso de Docker para conteinerização  
+       - Gerenciamento e modelagem do banco de dados em SQL  
+       - Aplicação de boas práticas de arquitetura e padrões de projeto    
+
+   ✔ Designer de Sistema
+      - Modelagem e refinamento dos casos de uso  
+      - Definição do fluxo de contratos do backend   
+      - Documentação técnica e alinhamento com a equipe de desenvolvimento    
+
+🧪 Metodologia e Organização
+    Participamos de um fluxo de trabalho inspirado em uma empresa real, incluindo:
+    - Reuniões semanais  
+    - Sprint Planning  
+    - Daily Meetings  
+    - Sprint Reviews
+    - Práticas de Scrum e desenvolvimento colaborativo  
+
+🌱 O que estou aprendendo  
+  Este projeto tem sido uma experiência extremamente enriquecedora, permitindo aprimorar:  
+    - Habilidades técnicas  
+    - Comunicação    
+    - Trabalho em equipe  
+    - Arquitetura de sistemas  
+    - Desenvolvimento backend escalável  
