@@ -36,7 +36,7 @@
 
 ## 🚀 Projetos Em Desenvolvimento
 
-### 📁 Detetives do Sapiens  
+## 📁 Detetives do Sapiens  
 
 Atualmente participo do desenvolvimento de um jogo educacional como parte das disciplinas de Engenharia de Software 2 e Arquitetura de Software. O objetivo do projeto é ensinar conceitos básicos de computação a crianças do 1º ano do Ensino Fundamental de uma escola pública de Florestal, utilizando elementos lúdicos e diferentes formas de representação da informação (texto, áudio e imagem).  
 
