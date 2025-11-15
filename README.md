@@ -70,7 +70,7 @@ Atualmente participo do desenvolvimento de um jogo educacional como parte das di
 
 ## 📁 Iniciação Científica
 Atualmente estou participando de uma Iniciação Científica na área de Mineração e Análise de Dados, em conjunto com um professor da universidade e mais 2 alunos. Estamos desenvolvendo estudos e análises com base em um imenso dataset que temos, abrangendo todo o conteúdo da Steam, plataforma de jogos.  
-##### Conhecimentos
+#### 🌱 Conhecimentos
        - Python (biblioteca pandas)  
        - Análise de dados  
        - Tabelas e gráficos  
