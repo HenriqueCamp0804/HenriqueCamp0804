@@ -34,12 +34,12 @@ Atualmente participo do desenvolvimento de um jogo educacional como parte das di
        - Gerenciamento e modelagem do banco de dados em SQL  
        - Aplicação de boas práticas de arquitetura e padrões de projeto    
 
-   ✔ Designer de Sistema
+####   ✔ Designer de Sistema
       - Modelagem e refinamento dos casos de uso  
       - Definição do fluxo de contratos do backend   
       - Documentação técnica e alinhamento com a equipe de desenvolvimento    
 
-🧪 Metodologia e Organização
+#### 🧪 Metodologia e Organização
     Participamos de um fluxo de trabalho inspirado em uma empresa real, incluindo:
     - Reuniões semanais  
     - Sprint Planning  
@@ -47,8 +47,8 @@ Atualmente participo do desenvolvimento de um jogo educacional como parte das di
     - Sprint Reviews
     - Práticas de Scrum e desenvolvimento colaborativo  
 
-🌱 O que estou aprendendo  
-  Este projeto tem sido uma experiência extremamente enriquecedora, permitindo aprimorar:  
+#### 🌱 O que estou aprendendo  
+    Este projeto tem sido uma experiência extremamente enriquecedora, permitindo aprimorar:  
     - Habilidades técnicas  
     - Comunicação    
     - Trabalho em equipe  
