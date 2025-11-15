@@ -74,3 +74,5 @@ Atualmente estou participando de uma Iniciação Científica na área de Minera�
        - Python (biblioteca pandas)  
        - Análise de dados  
        - Tabelas e gráficos  
+
+<img src="https://raw.githubusercontent.com/alveshenriique/alveshenriique/output/snake.svg" alt="Snake animation" />
