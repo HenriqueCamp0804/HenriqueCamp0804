@@ -2,7 +2,7 @@
 
 🙋🏽‍♂️ Henrique Campos/ 22y / Minas Gerais - BR  
 
-👨🏽‍🎓 Bacharelando em Ciência da Computação na Universidade Federal de Viçosa (UFV)  
+👨🏽‍🎓 Bacharelando em Ciência da Computação na Universidade Federal de Viçosa (UFV) - Campus Florestal/MG    
 
 🧠 Muito interessado em tecnologias no geral e sempre em busca de novos conhecimentos  
 
