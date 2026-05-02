@@ -31,23 +31,23 @@
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="40" alt="Email"/>
 </p>
 
-## 🚀 Projetos Em Desenvolvimento
+## 🚀 Projetos Desenvolvidos
 
 ## 📁 Detetives do Sapiens  
 
-Atualmente participo do desenvolvimento de um jogo educacional como parte das disciplinas de Engenharia de Software 2 e Arquitetura de Software. O objetivo do projeto é ensinar conceitos básicos de computação a crianças do 1º ano do Ensino Fundamental de uma escola pública de Florestal, utilizando elementos lúdicos e diferentes formas de representação da informação (texto, áudio e imagem).  
+Participei do desenvolvimento de um jogo educacional como parte das disciplinas de Engenharia de Software 2 e Arquitetura de Software. O objetivo do projeto foi ensinar conceitos básicos de computação a crianças do 1º ano do Ensino Fundamental de uma escola pública de Florestal, utilizando elementos lúdicos e diferentes formas de representação da informação (texto, áudio e imagem). 
 
 #### 🔧 Minhas Atividades no Projeto  
 #####   ✔ Desenvolvedor Sênior Backend    
-       - Implementação do backend utilizando Java + Spring Boot    
-       - Uso de Docker para conteinerização  
-       - Gerenciamento e modelagem do banco de dados em SQL  
-       - Aplicação de boas práticas de arquitetura e padrões de projeto    
+       - Implementei o backend utilizando Java + Spring Boot    
+       - Utilizei o Docker para conteinerização  
+       - Gerenciei e modelei o banco de dados em SQL  
+       - Apliquei boas práticas de arquitetura e padrões de projeto    
 
 ####   ✔ Designer de Sistema
-      - Modelagem e refinamento dos casos de uso  
-      - Definição do fluxo de contratos do backend   
-      - Documentação técnica e alinhamento com a equipe de desenvolvimento    
+      - Modelei e refinei os casos de uso  
+      - Defini o fluxo de contratos do backend   
+      - Produzi documentação técnica e alinhamento com a equipe de desenvolvimento    
 
 #### 🧪 Metodologia e Organização
     Participamos de um fluxo de trabalho inspirado em uma empresa real, incluindo:
@@ -58,7 +58,7 @@ Atualmente participo do desenvolvimento de um jogo educacional como parte das di
     - Práticas de Scrum e desenvolvimento colaborativo  
 
 #### 🌱 O que estou aprendendo  
-    Este projeto tem sido uma experiência extremamente enriquecedora, permitindo aprimorar:  
+    Este projeto foi uma experiência extremamente enriquecedora, permitindo aprimorar:  
     - Habilidades técnicas  
     - Comunicação    
     - Trabalho em equipe  
