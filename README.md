@@ -72,4 +72,8 @@ Atualmente estou participando de uma Iniciação Científica na área de Minera�
        - Análise de dados  
        - Tabelas e gráficos  
 
-<img src="https://raw.githubusercontent.com/HenriqueCamp0804/HenriqueCamp0804/output/snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HenriqueCamp0804/HenriqueCamp0804/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HenriqueCamp0804/HenriqueCamp0804/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/HenriqueCamp0804/HenriqueCamp0804/output/github-contribution-grid-snake.svg">
+</picture>
