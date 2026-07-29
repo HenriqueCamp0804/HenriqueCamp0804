@@ -1,6 +1,6 @@
 ## 👨‍💻 Sobre mim 
 
-🙋🏽‍♂️ Henrique Campos/ 22y / Minas Gerais - BR  
+🙋🏽‍♂️ Henrique Campos/ 23y / Minas Gerais - BR  
 
 👨🏽‍🎓 Bacharelando em Ciência da Computação na Universidade Federal de Viçosa (UFV) - Campus Florestal/MG    
 
@@ -72,4 +72,4 @@ Atualmente estou participando de uma Iniciação Científica na área de Minera�
        - Análise de dados  
        - Tabelas e gráficos  
 
-<img src="https://raw.githubusercontent.com/alveshenriique/alveshenriique/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HenriqueCamp0804/HenriqueCamp0804/output/snake.svg" alt="Snake animation" />
